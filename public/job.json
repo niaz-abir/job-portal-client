@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "job_name": "Front-End Developer",
+        "place": "Delhi,India (Remote)",
+        "company": "Dope tech",
+        "job_type": "Full Time",
+        "salery":"US$ 45.99",
+        "experience": "Two years"
+      },
+      {
+        "id": "2",
+        "job_name": "Cryptographer",
+        "place": "Dhaka,Bangladesh",
+        "company": "Buildie Tech",
+        "job_type": "Full Time",
+        "salery": "45k-60k BDT",
+        "experience": "2-3 years"
+      },
+      {
+        "id": "3",
+        "job_name": "Full-stack Developer",
+        "place": "Houston, Texas (Remote)",
+        "company": "Encoders Unlimited",
+        "job_type": "Full Time",
+        "salery": "US$ 35.99",
+        "experience": "2 years"
+      },
+      {
+        "id": "4",
+        "job_name": "App Developer",
+        "place": "Hyderabad, India (Remote)",
+        "company": "Bluelight Suite",
+        "job_type": "Full Time",
+        "salery": "US$ 35.99",
+        "experience": "1.5-2 years"
+      },
+      {
+        "id": "5",
+        "job_name": "SOC Analyst",
+        "place": "Dhaka Bangladesh",
+        "company": "OmniSoft Technologies",
+        "job_type": "Full Time",
+        "salery": "55k-65k BDT",
+        "experience": "2.5-3 years"
+      },
+      {
+        "id": "6",
+        "job_name": "Software Engineer",
+        "place": "Ottawa,Canada",
+        "company": "Cryptical Software",
+        "job_type": "Full Time",
+        "salery": "US$ 35.99",
+        "experience": "2 years"
+      }
+]
