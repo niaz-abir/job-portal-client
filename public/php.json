@@ -1,0 +1,92 @@
+[
+  {
+    "no": "01",
+    "question": "What does PHP stand for?",
+    "options": [
+      "Personal Home Page",
+      "Hypertext Preprocessor",
+      "Programming Hyper Processor",
+      "Public Hosting Platform"
+    ],
+    "correctAnswer": "Hypertext Preprocessor"
+  },
+  {
+    "no": "02",
+    "question": "Which symbol is used to denote the start of PHP code?",
+    "options": ["&lt;?", "&lt;?", "&lt;php", "&lt;?"],
+    "correctAnswer": "&lt;?"
+  },
+  {
+    "no": "03",
+    "question": "Which function is used to output data in PHP?",
+    "options": ["echo", "print", "printf", "display"],
+    "correctAnswer": "echo"
+  },
+  {
+    "no": "04",
+    "question": "What is the purpose of the 'require' function in PHP?",
+    "options": [
+      "To include a file and continue execution if the file is not found",
+      "To include a file and halt execution ",
+      "To define a constant",
+      "To declare a variable"
+    ],
+    "correctAnswer": "To include a file and halt execution "
+  },
+  {
+    "no": "05",
+    "question": "What is the correct way to start a session in PHP?",
+    "options": [
+      "session.start()",
+      "start_session()",
+      "session_start()",
+      "start()"
+    ],
+    "correctAnswer": "session_start()"
+  },
+  {
+    "no": "06",
+    "question": "Which of the following is not a PHP superglobal variable?",
+    "options": ["$_GET", "$_POST", "$_SESSION", "$_REQUEST"],
+    "correctAnswer": "$_REQUEST"
+  },
+  {
+    "no": "07",
+    "question": "What does PDO stand for in PHP?",
+    "options": [
+      "PHP Database Object",
+      "Personal Data Organizer",
+      "PHP Data Objects",
+      "Primary Data Organizer"
+    ],
+    "correctAnswer": "PHP Data Objects"
+  },
+  {
+    "no": "08",
+    "question": "What is the purpose of the 'foreach' loop in PHP?",
+    "options": [
+      "To iterate over an array or an object",
+      "To execute a block of code a certain number of times",
+      "To perform conditional branching",
+      "To define a function"
+    ],
+    "correctAnswer": "To iterate over an array or an object"
+  },
+  {
+    "no": "09",
+    "question": "What is the correct way to declare a constant in PHP?",
+    "options": [
+      "define('CONSTANT_NAME', 'value')",
+      "constant('CONSTANT_NAME', 'value')",
+      "const CONSTANT_NAME = 'value'",
+      "$CONSTANT_NAME = 'value'"
+    ],
+    "correctAnswer": "const CONSTANT_NAME = 'value'"
+  },
+  {
+    "no": "10",
+    "question": "Which function is used to redirect the PHP?",
+    "options": ["redirect()", "header()", "refresh()", "location()"],
+    "correctAnswer": "header()"
+  }
+]

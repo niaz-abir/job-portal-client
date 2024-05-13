@@ -1,0 +1,112 @@
+[
+  {
+    "no": "01",
+    "question": "What is JSX in React?",
+    "options": [
+      "JavaScript XML",
+      "JavaScript Extension",
+      "JavaScript Syntax",
+      "Java XML"
+    ],
+    "correctAnswer": "JavaScript XML"
+  },
+  {
+    "no": "02",
+    "question": "What is React?",
+    "options": [
+      "A JavaScript library for building user interfaces",
+      "A programming language",
+      "A framework for building backend services",
+      "A database management system"
+    ],
+    "correctAnswer": "A JavaScript library for building user interfaces"
+  },
+  {
+    "no": "03",
+    "question": "What is the virtual DOM in React?",
+    "options": [
+      "A virtual representation of the HTML DOM",
+      "A digital currency",
+      "A component that simulates the DOM",
+      "A JavaScript object that holds DOM elements"
+    ],
+    "correctAnswer": "A virtual representation of the HTML DOM"
+  },
+  {
+    "no": "04",
+    "question": "What are props in React?",
+    "options": [
+      "Properties that are passed to components",
+      "A method for defining CSS styles",
+      "A way to manage state in React",
+      "A built-in React component"
+    ],
+    "correctAnswer": "Properties that are passed to components"
+  },
+  {
+    "no": "05",
+    "question": "What is state in React?",
+    "options": [
+      "A way to store data in a component",
+      "A React lifecycle method",
+      "A type of CSS styling",
+      "A JavaScript function"
+    ],
+    "correctAnswer": "A way to store data in a component"
+  },
+  {
+    "no": "06",
+    "question": "What is a React component?",
+    "options": [
+      "A reusable piece of UI",
+      "A function that returns HTML",
+      "A variable in JavaScript",
+      "An HTML element"
+    ],
+    "correctAnswer": "A reusable piece of UI"
+  },
+  {
+    "no": "07",
+    "question": "What is the purpose of setState() in React?",
+    "options": [
+      "To update the state of a component",
+      "To define CSS styles",
+      "To create a new component",
+      "To fetch data from an API"
+    ],
+    "correctAnswer": "To update the state of a component"
+  },
+  {
+    "no": "08",
+    "question": "What is the purpose of React Router?",
+    "options": [
+      "To manage routing in React applications",
+      "To style React components",
+      "To handle HTTP requests in React",
+      "To manage state in React components"
+    ],
+    "correctAnswer": "To manage routing in React applications"
+  },
+  {
+    "no": "09",
+    "question": "What are hooks in React?",
+    "options": [
+      "Functions that let you use React state and  ",
+      "A way to secure React applications",
+      "A method for asynchronous data fetching in React",
+      "A type of React component"
+    ],
+    "correctAnswer": "Functions that let you use React state and "
+  },
+  {
+    "no": "10",
+    "question": "What is the purpose of useEffect() ",
+    "options": [
+      "To perform side effects ",
+      "To define event handlers ",
+      "To manage global state in React",
+      "To create animations in React"
+    ],
+    "correctAnswer": "To perform side effects "
+  }
+]

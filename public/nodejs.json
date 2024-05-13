@@ -1,0 +1,107 @@
+[
+  {
+    "no": "01",
+    "question": "What is Node.js?",
+    "options": [
+      "A front-end framework",
+      "A database management system",
+      "A runtime environment for executing JavaScript code",
+      "A version control system"
+    ],
+    "correctAnswer": "A runtime environment for executing JavaScript code"
+  },
+  {
+    "no": "02",
+    "question": "Which JavaScript engine is used in Node.js?",
+    "options": ["V8", "SpiderMonkey", "Chakra", "JavaScriptCore"],
+    "correctAnswer": "V8"
+  },
+  {
+    "no": "03",
+    "question": "What is npm in the context of Node.js?",
+    "options": [
+      "Node.js Package Manager",
+      "Node Project Manager",
+      "Node Process Manager",
+      "Node Programming Module"
+    ],
+    "correctAnswer": "Node.js Package Manager"
+  },
+  {
+    "no": "04",
+    "question": "What does the 'require' function do in Node.js?",
+    "options": [
+      "Imports external modules or files",
+      "Defines global variables",
+      "Creates new instances of classes",
+      "Performs HTTP requests"
+    ],
+    "correctAnswer": "Imports external modules or files"
+  },
+  {
+    "no": "05",
+    "question": "What is the purpose of the 'fs' module in Node.js?",
+    "options": [
+      "To manage file system operations",
+      "To create web servers",
+      "To handle database queries",
+      "To interact with external APIs"
+    ],
+    "correctAnswer": "To manage file system operations"
+  },
+  {
+    "no": "06",
+    "question": "What is 'Express' in the context of Node.js?",
+    "options": [
+      "A built-in Node.js module for handling HTTP requests",
+      "A JavaScript testing framework",
+      "A front-end framework",
+      "A templating engine"
+    ],
+    "correctAnswer": "A built-in Node.js module for handling HTTP requests"
+  },
+  {
+    "no": "07",
+    "question": "What is the role of 'middleware' in Express.js?",
+    "options": [
+      "To define database schemas",
+      "To handle HTTP requests",
+      "To manage package dependencies",
+      "To optimize website performance"
+    ],
+    "correctAnswer": "To handle HTTP requests"
+  },
+  {
+    "no": "08",
+    "question": "What is the purpose of 'package.json' in a Node.js project?",
+    "options": [
+      "To store user preferences",
+      "To specify project dependencies and configuration",
+      "To define CSS stylesheets",
+      "To manage database migrations"
+    ],
+    "correctAnswer": "To specify project dependencies and configuration"
+  },
+  {
+    "no": "09",
+    "question": "What does the 'EventEmitter' class do in Node.js?",
+    "options": [
+      "Manages database connections",
+      "Handles asynchronous events",
+      "Controls web server routing",
+      "Generates random numbers"
+    ],
+    "correctAnswer": "Handles asynchronous events"
+  },
+  {
+    "no": "10",
+    "question": "What is 'callback hell' in Node.js?",
+    "options": [
+      "A popular Node.js framework",
+      "A design pattern for handling asynchronous operations",
+      "A situation where nested callbacks make code hard to read and maintain",
+      "A built-in Node.js module for error handling"
+    ],
+    "correctAnswer": "A situation where nested callbacks make code hard to read and maintain"
+  }
+]

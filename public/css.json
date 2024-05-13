@@ -1,0 +1,102 @@
+[
+  {
+    "no": "01",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheets",
+      "Creative Style Selector",
+      "Computer Style Syntax",
+      "Complex Style System"
+    ],
+    "correctAnswer": "Cascading Style Sheets"
+  },
+  {
+    "no": "02",
+    "question": "Which property is used to change the text color?",
+    "options": ["text-color", "font-color", "color", "text-style"],
+    "correctAnswer": "color"
+  },
+  {
+    "no": "03",
+    "question": "What does the 'box-sizing' property in CSS do?",
+    "options": [
+      "Defines the size of the text box",
+      "Sets the model for how the total width and height ",
+      "Determines the spacing between elements",
+      "Specifies the shape of a box element"
+    ],
+    "correctAnswer": "Sets the model for how the total width and height"
+  },
+  {
+    "no": "04",
+    "question": "Which CSS property is used to control the spacing ?",
+    "options": [
+      "letter-spacing",
+      "word-spacing",
+      "text-spacing",
+      "line-spacing"
+    ],
+    "correctAnswer": "letter-spacing"
+  },
+  {
+    "no": "05",
+    "question": "What does the 'float' property in CSS do?",
+    "options": [
+      "Makes an element flow horizontally in the opposite direction ",
+      "Adds a floating effect to the element",
+      "Aligns the element to the right side of its container",
+      "Causes an element to be removed from the normal "
+    ],
+    "correctAnswer": "Causes an element to be removed from the normal "
+  },
+  {
+    "no": "06",
+    "question": "Which CSS property is used to set the background ?",
+    "options": [
+      "background-color",
+      "color-background",
+      "element-background",
+      "background"
+    ],
+    "correctAnswer": "background-color"
+  },
+  {
+    "no": "07",
+    "question": "What does the CSS property 'display: none;' do?",
+    "options": [
+      "Hides the element from the page without ",
+      "Removes the element from the DOM completely",
+      "Displays the element as a block-level element",
+      "Centers the element horizontally on the page"
+    ],
+    "correctAnswer": "Hides the element from the page without "
+  },
+  {
+    "no": "08",
+    "question": "What is the purpose of the CSS 'z-index' property?",
+    "options": [
+      "Sets the width of the element",
+      "Specifies the vertical stacking order ",
+      "Defines the position of the element within its container",
+      "Controls the opacity of the element"
+    ],
+    "correctAnswer": "Specifies the vertical stacking order"
+  },
+  {
+    "no": "09",
+    "question": "Which CSS property is used to add shadows to elements?",
+    "options": ["box-shadow", "text-shadow", "element-shadow", "shadow-effect"],
+    "correctAnswer": "box-shadow"
+  },
+  {
+    "no": "10",
+    "question": "What does the CSS property 'position: fixed;' do?",
+    "options": [
+      "Positions the element relative to its closest positioned ancestor",
+      "Positions the element relative to the viewport",
+      "Locks the element's position so it cannot be moved",
+      "Floats the element to the right side of its container"
+    ],
+    "correctAnswer": "Positions the element relative to the viewport"
+  }
+]

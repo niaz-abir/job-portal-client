@@ -1,0 +1,102 @@
+[
+  {
+    "no": "01",
+    "question": "What is Flutter?",
+    "options": [
+      "A music streaming platform",
+      "A mobile development framework",
+      "A photo editing software",
+      "A video conferencing tool"
+    ],
+    "correctAnswer": "A mobile development framework"
+  },
+  {
+    "no": "02",
+    "question": "Which programming language is primarily used in Flutter?",
+    "options": ["Java", "Python", "Dart", "Swift"],
+    "correctAnswer": "Dart"
+  },
+  {
+    "no": "03",
+    "question": "What does Flutter use for rendering UI?",
+    "options": ["XML", "HTML", "Canvas", "OpenGL"],
+    "correctAnswer": "Canvas"
+  },
+  {
+    "no": "04",
+    "question": "What is a 'Widget' in Flutter?",
+    "options": [
+      "A small furry creature",
+      "A component for building UI",
+      "A data storage mechanism",
+      "A type of animation"
+    ],
+    "correctAnswer": "A component for building UI"
+  },
+  {
+    "no": "05",
+    "question": "What is the purpose of 'setState()' in Flutter?",
+    "options": [
+      "To define the state of an app",
+      "To reset the app to its initial state",
+      "To update the UI based on state changes",
+      "To import external libraries"
+    ],
+    "correctAnswer": "To update the UI based on state changes"
+  },
+  {
+    "no": "06",
+    "question": "What is the main function of the 'pubspec.yaml' file in Flutter projects?",
+    "options": [
+      "To specify project dependencies",
+      "To define UI layouts",
+      "To configure device permissions",
+      "To store user preferences"
+    ],
+    "correctAnswer": "To specify project dependencies"
+  },
+  {
+    "no": "07",
+    "question": "What does the 'hot reload' feature in Flutter do?",
+    "options": [
+      "Reboots the device",
+      "Compiles the entire project from scratch",
+      "Updates the app's UI without restarting the app",
+      "Uninstalls the app"
+    ],
+    "correctAnswer": "Updates the app's UI without restarting the app"
+  },
+  {
+    "no": "08",
+    "question": "What is the purpose of the 'Navigator' in Flutter?",
+    "options": [
+      "To navigate between app screens",
+      "To control device settings",
+      "To manage network requests",
+      "To create animations"
+    ],
+    "correctAnswer": "To navigate between app screens"
+  },
+  {
+    "no": "09",
+    "question": "Which IDEs are commonly used for Flutter development?",
+    "options": [
+      "Visual Studio Code and IntelliJ IDEA",
+      "Eclipse and Android Studio",
+      "Xcode and Atom",
+      "Sublime Text and NetBeans"
+    ],
+    "correctAnswer": "Visual Studio Code and IntelliJ IDEA"
+  },
+  {
+    "no": "10",
+    "question": "What is the purpose of the 'async' and 'await' keywords in Flutter?",
+    "options": [
+      "To define variables",
+      "To handle asynchronous operations",
+      "To perform mathematical calculations",
+      "To create custom animations"
+    ],
+    "correctAnswer": "To handle asynchronous operations"
+  }
+]

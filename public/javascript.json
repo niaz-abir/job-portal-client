@@ -1,0 +1,112 @@
+[
+  {
+    "no": "01",
+    "question": "What does DOM stand for in JavaScript?",
+    "options": [
+      "Document Object Model",
+      "Data Object Model",
+      "Dynamic Output Method",
+      "Document Orientation Model"
+    ],
+    "correctAnswer": "Document Object Model"
+  },
+  {
+    "no": "02",
+    "question": "What is the purpose of 'let' keyword in JavaScript?",
+    "options": [
+      "To define a global variable",
+      "To declare a constant",
+      "To declare a variable with block scope",
+      "To create a function"
+    ],
+    "correctAnswer": "To declare a variable with block scope"
+  },
+  {
+    "no": "03",
+    "question": "What is a closure in JavaScript?",
+    "options": [
+      "A function with no return statement",
+      "A way to call a function recursively",
+      "A combination of a function and the lexical environment within which that function was declared",
+      "A built-in JavaScript object"
+    ],
+    "correctAnswer": "A combination of a function and the lexical environment within which that function was declared"
+  },
+  {
+    "no": "04",
+    "question": "What is the purpose of '=== ' operator in JavaScript?",
+    "options": [
+      "To assign a value to a variable",
+      "To compare two values for equality without type conversion",
+      "To concatenate two strings",
+      "To check if a value is null"
+    ],
+    "correctAnswer": "To compare two values for equality without type conversion"
+  },
+  {
+    "no": "05",
+    "question": "What is an anonymous function in JavaScript?",
+    "options": [
+      "A function with no name",
+      "A function that doesn't return a value",
+      "A function with a single argument",
+      "A function that is called immediately after being defined"
+    ],
+    "correctAnswer": "A function with no name"
+  },
+  {
+    "no": "06",
+    "question": "What is the purpose of 'setTimeout()' function in JavaScript?",
+    "options": [
+      "To set an interval for executing a function repeatedly",
+      "To delay the execution of a function by a specified number of milliseconds",
+      "To stop the execution of a function",
+      "To execute a function immediately"
+    ],
+    "correctAnswer": "To delay the execution of a function by a specified number of milliseconds"
+  },
+  {
+    "no": "07",
+    "question": "What does AJAX stand for in JavaScript?",
+    "options": [
+      "Asynchronous JavaScript and XML",
+      "Automated JavaScript and XML",
+      "Advanced JavaScript and XML",
+      "Asynchronous JSON and XML"
+    ],
+    "correctAnswer": "Asynchronous JavaScript and XML"
+  },
+  {
+    "no": "08",
+    "question": "What is the purpose of 'map()' method in JavaScript arrays?",
+    "options": [
+      "To filter array elements based on a condition",
+      "To create a new array with the results of calling a provided function on every element in the calling array",
+      "To sort array elements in ascending order",
+      "To remove duplicate elements from an array"
+    ],
+    "correctAnswer": "To create a new array with the results of calling a provided function on every element in the calling array"
+  },
+  {
+    "no": "09",
+    "question": "What does JSON stand for in JavaScript?",
+    "options": [
+      "JavaScript Object Notation",
+      "JavaScript Object Network",
+      "JavaScript Object Namespace",
+      "JavaScript Object Navigator"
+    ],
+    "correctAnswer": "JavaScript Object Notation"
+  },
+  {
+    "no": "10",
+    "question": "What is the purpose of 'querySelector()' method in JavaScript?",
+    "options": [
+      "To select all elements with a specified class name",
+      "To select the first element that matches a specified CSS selector",
+      "To select the parent element of a specified element",
+      "To select elements based on their tag name"
+    ],
+    "correctAnswer": "To select the first element that matches a specified CSS selector"
+  }
+]

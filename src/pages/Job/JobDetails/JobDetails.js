@@ -8,7 +8,7 @@ const JobDetails = ({ details }) => {
 
   // const { detail } = details;
   return (
-    <div className="flex flex-col lg:flex-row lg:justify-between mb-8 pb-16 lg:mb-0">
+    <div className="flex flex-col pb-16 mb-8 lg:flex-row lg:justify-between lg:mb-0">
       <div className="ml-8">
         <h1 className="text-[20px] mb-2 text-accent-400 font-bold">
           JOB DETAILS
@@ -20,15 +20,17 @@ const JobDetails = ({ details }) => {
               job type : {details?.job_name}
             </h1>
           </div>
-          {/* <p className="text-white mt-4">{details.details}</p> */}
-          <p>{details?.place}</p>
+          {/* <p className="mt-4 text-white">{details.details}</p> */}
+          <p className="text-white">{details?.place}</p>
         </div>
-        <p className="mt-8 w-[300px] lg:w-[500px]">{details?.detail}</p>
+        <p className="mt-8 w-[300px] lg:w-[500px] text-white">
+          {details?.detail}
+        </p>
       </div>
-      <div className="mt-4 lg:mt-4 ml-4 lg:ml-0">
+      <div className="mt-4 ml-4 lg:mt-4 lg:ml-0">
         <Link
           to={`/jobapply/${details?._id}`}
-          className="btn-all px-6 py-4 text-white font-bold mr-2 mt-4"
+          className="px-6 py-4 mt-4 mr-2 font-bold text-white btn-all"
         >
           Apply
         </Link>

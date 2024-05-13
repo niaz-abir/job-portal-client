@@ -1,0 +1,102 @@
+[
+  {
+    "no": "01",
+    "question": "What is Python?",
+    "options": [
+      "A high-level programming language",
+      "A type of snake",
+      "A database management system",
+      "A web browser"
+    ],
+    "correctAnswer": "A high-level programming language"
+  },
+  {
+    "no": "02",
+    "question": "Which symbol is used for comments in Python?",
+    "options": ["//", "#", "--", "/* */"],
+    "correctAnswer": "#"
+  },
+  {
+    "no": "03",
+    "question": "What is the purpose of 'if' statement in Python?",
+    "options": [
+      "To define a function",
+      "To loop over a sequence",
+      "To execute code conditionally",
+      "To import modules"
+    ],
+    "correctAnswer": "To execute code conditionally"
+  },
+  {
+    "no": "04",
+    "question": "Which data type is mutable in Python?",
+    "options": ["List", "Tuple", "String", "Set"],
+    "correctAnswer": "List"
+  },
+  {
+    "no": "05",
+    "question": "What is the purpose of 'len()' function in Python?",
+    "options": [
+      "To remove an item from a list",
+      "To calculate the length of a string",
+      "To convert a string to uppercase",
+      "To generate a list of numbers"
+    ],
+    "correctAnswer": "To calculate the length of a string"
+  },
+  {
+    "no": "06",
+    "question": "What does 'import random' do in Python?",
+    "options": [
+      "It imports the random module for generating random numbers",
+      "It imports the math module for mathematical operations",
+      "It imports the time module for working with time-related functions",
+      "It imports the os module for interacting with the operating system"
+    ],
+    "correctAnswer": "It imports the random module for generating random numbers"
+  },
+  {
+    "no": "07",
+    "question": "What does 'lambda' function do in Python?",
+    "options": [
+      "Defines a named function",
+      "Creates an anonymous function",
+      "Generates a list of numbers",
+      "Performs list comprehension"
+    ],
+    "correctAnswer": "Creates an anonymous function"
+  },
+  {
+    "no": "08",
+    "question": "What is the purpose of 'zip()' function in Python?",
+    "options": [
+      "To compress files",
+      "To zip two lists together",
+      "To unzip files",
+      "To calculate the sum of elements in a list"
+    ],
+    "correctAnswer": "To zip two lists together"
+  },
+  {
+    "no": "09",
+    "question": "What is the correct syntax to open a file in Python?",
+    "options": [
+      "file = open('filename.txt')",
+      "open('filename.txt', 'r')",
+      "file.open('filename.txt')",
+      "open.file('filename.txt')"
+    ],
+    "correctAnswer": "open('filename.txt', 'r')"
+  },
+  {
+    "no": "10",
+    "question": "What is the purpose of 'range()' function in Python?",
+    "options": [
+      "To generate a range of numbers",
+      "To calculate the factorial of a number",
+      "To perform mathematical operations",
+      "To define a range for looping"
+    ],
+    "correctAnswer": "To generate a range of numbers"
+  }
+]

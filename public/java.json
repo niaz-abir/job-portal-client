@@ -1,0 +1,92 @@
+[
+  {
+    "no": "01",
+    "question": "What is Java?",
+    "options": [
+      "A programming language",
+      "A type of coffee",
+      "A database management system",
+      "A web browser"
+    ],
+    "correctAnswer": "A programming language"
+  },
+  {
+    "no": "02",
+    "question": "Which keyword is used to define a class in Java?",
+    "options": ["class", "void", "new", "public"],
+    "correctAnswer": "class"
+  },
+  {
+    "no": "03",
+    "question": "What is the purpose of 'public static void main(String[] args)' in Java?",
+    "options": [
+      "To define a new class",
+      "To declare variables",
+      "To initialize an object",
+      "To specify the entry point of a Java program"
+    ],
+    "correctAnswer": "To specify the entry point of a Java program"
+  },
+  {
+    "no": "04",
+    "question": "What is the difference between '==' and '.equals()' in Java?",
+    "options": [
+      "'==' compares references, '.equals()' compares values",
+      "'==' compares values, '.equals()' compares references",
+      "'==' is used for arithmetic operations, '.equals()' is used for string concatenation",
+      "'==' is used for string comparison, '.equals()' is used for numerical comparison"
+    ],
+    "correctAnswer": "'==' compares references, '.equals()' compares values"
+  },
+  {
+    "no": "05",
+    "question": "Which data type is used to represent a single character in Java?",
+    "options": ["char", "String", "int", "float"],
+    "correctAnswer": "char"
+  },
+  {
+    "no": "06",
+    "question": "What is the purpose of 'break' statement in Java?",
+    "options": [
+      "To exit from a loop or switch statement",
+      "To define a new method",
+      "To continue to the next iteration of a loop",
+      "To throw an exception"
+    ],
+    "correctAnswer": "To exit from a loop or switch statement"
+  },
+  {
+    "no": "07",
+    "question": "What is the superclass of all classes in Java?",
+    "options": ["Object", "Super", "Class", "Base"],
+    "correctAnswer": "Object"
+  },
+  {
+    "no": "08",
+    "question": "What is the purpose of 'interface' in Java?",
+    "options": [
+      "To define a class with default implementations",
+      "To define a blueprint for classes to implement",
+      "To provide access to databases",
+      "To handle exceptions"
+    ],
+    "correctAnswer": "To define a blueprint for classes to implement"
+  },
+  {
+    "no": "09",
+    "question": "Which keyword is used to prevent a method from being overridden in Java?",
+    "options": ["final", "abstract", "static", "private"],
+    "correctAnswer": "final"
+  },
+  {
+    "no": "10",
+    "question": "What is the purpose of 'try-catch' block in Java?",
+    "options": [
+      "To define a new method",
+      "To handle exceptions",
+      "To exit from a loop",
+      "To initialize variables"
+    ],
+    "correctAnswer": "To handle exceptions"
+  }
+]

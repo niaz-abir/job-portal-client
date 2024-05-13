@@ -1,0 +1,87 @@
+[
+  {
+    "no": "01",
+    "question": "What does SASS stand for?",
+    "options": [
+      "Styled Application Style Sheets",
+      "Simple Application Style Sheets",
+      "Syntactically Awesome Style Sheets",
+      "Stylized Application Style Sheets"
+    ],
+    "correctAnswer": "Syntactically Awesome Style Sheets"
+  },
+  {
+    "no": "02",
+    "question": "Which file extension is typically used for SASS files?",
+    "options": [".css", ".scss", ".sass", ".style"],
+    "correctAnswer": ".scss"
+  },
+  {
+    "no": "03",
+    "question": "What is the main purpose of using SASS?",
+    "options": [
+      "To write JavaScript code",
+      "To enhance HTML structure",
+      "To simplify CSS authoring",
+      "To manage database operations"
+    ],
+    "correctAnswer": "To simplify CSS authoring"
+  },
+  {
+    "no": "04",
+    "question": "Which feature of SASS allows you to nest CSS rules?",
+    "options": ["Mixins", "Variables", "Nesting", "Functions"],
+    "correctAnswer": "Nesting"
+  },
+  {
+    "no": "05",
+    "question": "What is the function of SASS mixins?",
+    "options": [
+      "To declare variables",
+      "To apply vendor prefixes automatically",
+      "To define media queries",
+      "To specify color schemes"
+    ],
+    "correctAnswer": "To apply vendor prefixes automatically"
+  },
+  {
+    "no": "06",
+    "question": "How do you import another SASS file into your current SASS file?",
+    "options": [
+      "Using the @import directive",
+      "Using the $import function",
+      "Using the .import mixin",
+      "Using the #import rule"
+    ],
+    "correctAnswer": "Using the @import directive"
+  },
+  {
+    "no": "07",
+    "question": "What does the SASS variable declaration syntax start with?",
+    "options": ["&", "$", "#", "@"],
+    "correctAnswer": "$"
+  },
+  {
+    "no": "08",
+    "question": "Which SASS feature helps in avoiding repetitive code?",
+    "options": ["Mixins", "Variables", "Nesting", "Functions"],
+    "correctAnswer": "Mixins"
+  },
+  {
+    "no": "09",
+    "question": "What does the ampersand (&) symbol represent in SASS?",
+    "options": [
+      "Parent selector reference",
+      "Child selector reference",
+      "Attribute selector reference",
+      "Sibling selector reference"
+    ],
+    "correctAnswer": "Parent selector reference"
+  },
+  {
+    "no": "10",
+    "question": "Which SASS function is used for mathematical operations?",
+    "options": ["calc()", "math()", "calc()", "math()"],
+    "correctAnswer": "calc()"
+  }
+]

@@ -6,8 +6,10 @@ module.exports = {
       colors: {
         "accent-400": "#d45d93",
         "dark-400": "#221c38",
-        "dark-300": "#1f1932",
+        "dark-300": "#362b33",
         "dark-mid": "#38334c",
+        "dark-new": "#20131c",
+        "dark-deep": "#221c38",
       },
     },
   },

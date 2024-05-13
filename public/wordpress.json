@@ -1,0 +1,97 @@
+[
+  {
+    "no": "01",
+    "question": "What is WordPress?",
+    "options": [
+      "A blogging platform",
+      "A content management system",
+      "A web hosting service",
+      "A programming language"
+    ],
+    "correctAnswer": "A content management system"
+  },
+  {
+    "no": "02",
+    "question": "Which programming language is primarily used to develop WordPress?",
+    "options": ["PHP", "JavaScript", "Python", "Ruby"],
+    "correctAnswer": "PHP"
+  },
+  {
+    "no": "03",
+    "question": "What is a theme in WordPress?",
+    "options": [
+      "A collection of plugins",
+      "A layout for a website",
+      "A programming language",
+      "A database management system"
+    ],
+    "correctAnswer": "A layout for a website"
+  },
+  {
+    "no": "04",
+    "question": "What is the purpose of a WordPress plugin?",
+    "options": [
+      "To change the website theme",
+      "To add functionality to a WordPress site",
+      "To manage user permissions",
+      "To create backups of the website"
+    ],
+    "correctAnswer": "To add functionality to a WordPress site"
+  },
+  {
+    "no": "05",
+    "question": "Which of the following is the default database management system used by WordPress?",
+    "options": ["MySQL", "MongoDB", "SQLite", "PostgreSQL"],
+    "correctAnswer": "MySQL"
+  },
+  {
+    "no": "06",
+    "question": "What is the WordPress Dashboard?",
+    "options": [
+      "The front-end of a WordPress site",
+      "The control panel for managing a WordPress site",
+      "A plugin for WordPress development",
+      "A theme for WordPress sites"
+    ],
+    "correctAnswer": "The control panel for managing a WordPress site"
+  },
+  {
+    "no": "07",
+    "question": "What is the purpose of the WordPress shortcode?",
+    "options": [
+      "To secure the WordPress site",
+      "To add custom functionality to posts and pages",
+      "To change the website theme",
+      "To manage user roles"
+    ],
+    "correctAnswer": "To add custom functionality to posts and pages"
+  },
+  {
+    "no": "08",
+    "question": "What is the function of the WordPress function 'wp_head()'?",
+    "options": [
+      "To display the website header",
+      "To insert scripts and styles into the head section of the HTML document",
+      "To create a new WordPress user",
+      "To display the website footer"
+    ],
+    "correctAnswer": "To insert scripts and styles into the head section of the HTML document"
+  },
+  {
+    "no": "09",
+    "question": "What is the default permalink structure in WordPress?",
+    "options": ["Plain", "Day and name", "Post name", "Custom structure"],
+    "correctAnswer": "Plain"
+  },
+  {
+    "no": "10",
+    "question": "What is the role of the WordPress administrator?",
+    "options": [
+      "To manage the content of the website",
+      "To install WordPress themes and plugins",
+      "To perform routine maintenance tasks",
+      "To have full control over the WordPress site"
+    ],
+    "correctAnswer": "To have full control over the WordPress site"
+  }
+]

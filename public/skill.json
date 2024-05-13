@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1",
+    "tools": "react",
+    "question_no": "11",
+    "question_name": "which is JavaScript library",
+    "option_1": "react",
+    "option_2": "css",
+    "option_3": "sass",
+    "option_4": "html",
+    "correct_ans": "react"
+  },
+  {
+    "id": "2",
+    "tools": "react",
+    "question_no": "12",
+    "question_name": "In React, what is used to manage state in a component?",
+    "option_1": "setState",
+    "option_2": "this.state",
+    "option_3": "stateManager",
+    "option_4": "stateControl",
+    "correct_ans": "this.state"
+  },
+  {
+    "id": "3",
+    "tools": "react",
+    "question_no": "13",
+    "question_name": "Which lifecycle method is invoked after a component is inserted into the DOM in React?",
+    "option_1": "componentDidMount",
+    "option_2": "componentWillMount",
+    "option_3": "componentDidUpdate",
+    "option_4": "componentWillUnmount",
+    "correct_ans": "componentDidMount"
+  },
+  {
+    "id": "4",
+    "tools": "react",
+    "question_no": "14",
+    "question_name": "What is JSX in React?",
+    "option_1": "JavaScript XML",
+    "option_2": "JSON XML",
+    "option_3": "Java XML",
+    "option_4": "JavaScript Extended",
+    "correct_ans": "JSON XML"
+  },
+  {
+    "id": "5",
+    "tools": "react",
+    "question_no": "15",
+    "question_name": "In React, what is used to pass data to a component from its parent?",
+    "option_1": "setData",
+    "option_2": "sendData",
+    "option_3": "props",
+    "option_4": "transmitData",
+    "correct_ans": "props"
+  },
+  {
+    "id": "6",
+    "tools": "react",
+    "question_no": "16",
+    "question_name": "What is the purpose of the `key` attribute in React?",
+    "option_1": " list",
+    "option_2": " element",
+    "option_3": " input ",
+    "option_4": "variable",
+    "correct_ans": "list"
+  },
+  {
+    "id": "7",
+    "tools": "react",
+    "question_no": "17",
+    "question_name": "How can you conditionally render content in React?",
+    "option_1": " statement",
+    "option_2": " function",
+    "option_3": "operator`",
+    "option_4": " loop",
+    "correct_ans": "loop"
+  }
+]

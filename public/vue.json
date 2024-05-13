@@ -1,0 +1,107 @@
+[
+  {
+    "no": "01",
+    "question": "What does Vue.js?",
+    "options": [
+      "Build user interfaces",
+      "Write server-side code",
+      "Manage databases",
+      "Create mobile applications"
+    ],
+    "correctAnswer": "Build user interfaces"
+  },
+  {
+    "no": "02",
+    "question": "What is the primary purpose of Vue.js?",
+    "options": [
+      "Backend development",
+      "Database management",
+      "Frontend development",
+      "Mobile app development"
+    ],
+    "correctAnswer": "Frontend development"
+  },
+  {
+    "no": "03",
+    "question": "What does the 'v-bind' directive do in Vue.js?",
+    "options": [
+      "Binds an attribute to an expression",
+      "Defines a variable",
+      "Imports a module",
+      "Binds a function to an event"
+    ],
+    "correctAnswer": "Binds an attribute to an expression"
+  },
+  {
+    "no": "04",
+    "question": "Which Vue.js directive is used to handle user input events?",
+    "options": ["v-model", "v-bind", "v-if", "v-for"],
+    "correctAnswer": "v-model"
+  },
+  {
+    "no": "05",
+    "question": "What is a Vue.js component?",
+    "options": [
+      "A reusable piece of UI",
+      "A server-side function",
+      "A database schema",
+      "An API endpoint"
+    ],
+    "correctAnswer": "A reusable piece of UI"
+  },
+  {
+    "no": "06",
+    "question": "What does 'computed' in Vue.js refer to?",
+    "options": [
+      "Functions that return dynamic data based on other data",
+      "Styling rules",
+      "Database queries",
+      "Routing configurations"
+    ],
+    "correctAnswer": "Functions that return dynamic data based on other data"
+  },
+  {
+    "no": "07",
+    "question": "What is the purpose of 'v-for' in Vue.js?",
+    "options": [
+      "To loop through an array",
+      "To conditionally render an element",
+      "To bind an attribute",
+      "To create a new component"
+    ],
+    "correctAnswer": "To loop through an array"
+  },
+  {
+    "no": "08",
+    "question": "What is the Vue.js CLI used for?",
+    "options": [
+      "To create and manage Vue.js projects",
+      "To run server-side code",
+      "To interact with databases",
+      "To handle API requests"
+    ],
+    "correctAnswer": "To create and manage Vue.js projects"
+  },
+  {
+    "no": "09",
+    "question": "What does the 'v-if' directive do in Vue.js?",
+    "options": [
+      "Conditionally renders an element",
+      "Binds an attribute to an expression",
+      "Imports a module",
+      "Defines a variable"
+    ],
+    "correctAnswer": "Conditionally renders an element"
+  },
+  {
+    "no": "10",
+    "question": "What does Vuex provide in a Vue.js application?",
+    "options": [
+      "State management",
+      "Database access",
+      "Routing functionality",
+      "Server-side rendering"
+    ],
+    "correctAnswer": "State management"
+  }
+]

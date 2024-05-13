@@ -1,0 +1,112 @@
+[
+  {
+    "no": "01",
+    "question": "What is Figma?",
+    "options": [
+      "A design tool",
+      "A social media platform",
+      "A programming language",
+      "A video editing software"
+    ],
+    "correctAnswer": "A design tool"
+  },
+  {
+    "no": "02",
+    "question": "Which operating systems does Figma support?",
+    "options": [
+      "Windows and macOS",
+      "Linux and iOS",
+      "Android only",
+      "macOS only"
+    ],
+    "correctAnswer": "Windows and macOS"
+  },
+  {
+    "no": "03",
+    "question": "What is the purpose of Figma's 'Auto Layout' feature?",
+    "options": [
+      "To automatically generate code",
+      "To resize elements based on content",
+      "To apply predefined styles to elements",
+      "To create animations"
+    ],
+    "correctAnswer": "To resize elements based on content"
+  },
+  {
+    "no": "04",
+    "question": "What is the role of 'components' in Figma?",
+    "options": [
+      "To export designs to code",
+      "To organize layers",
+      "To create reusable design elements",
+      "To apply filters and effects"
+    ],
+    "correctAnswer": "To create reusable design elements"
+  },
+  {
+    "no": "05",
+    "question": "What is the purpose of Figma's 'Prototype' tab?",
+    "options": [
+      "To export designs to other tools",
+      "To create interactive prototypes",
+      "To organize design files",
+      "To apply version control"
+    ],
+    "correctAnswer": "To create interactive prototypes"
+  },
+  {
+    "no": "06",
+    "question": "What does Figma's 'collaboration' feature allow users to do?",
+    "options": [
+      "To print designs",
+      "To work on designs simultaneously with others",
+      "To export designs to code",
+      "To share designs via email"
+    ],
+    "correctAnswer": "To work on designs simultaneously with others"
+  },
+  {
+    "no": "07",
+    "question": "What file formats can be imported into Figma?",
+    "options": [
+      "JPEG and PNG",
+      "SVG, JPEG, and PNG",
+      "PDF only",
+      "MP4 and MOV"
+    ],
+    "correctAnswer": "SVG, JPEG, and PNG"
+  },
+  {
+    "no": "08",
+    "question": "What is the purpose of Figma's 'Version History' feature?",
+    "options": [
+      "To revert to previous versions of a design",
+      "To export designs to code",
+      "To organize layers",
+      "To create animations"
+    ],
+    "correctAnswer": "To revert to previous versions of a design"
+  },
+  {
+    "no": "09",
+    "question": "What is Figma's 'Frame' tool used for?",
+    "options": [
+      "To draw shapes",
+      "To group layers",
+      "To create responsive designs",
+      "To define the canvas area for designing"
+    ],
+    "correctAnswer": "To define the canvas area for designing"
+  },
+  {
+    "no": "10",
+    "question": "What does Figma's 'Grids and Layouts' feature help designers with?",
+    "options": [
+      "To create animations",
+      "To organize layers",
+      "To align and distribute elements",
+      "To apply filters and effects"
+    ],
+    "correctAnswer": "To align and distribute elements"
+  }
+]

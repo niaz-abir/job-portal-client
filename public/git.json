@@ -1,0 +1,112 @@
+[
+  {
+    "no": "01",
+    "question": "What is Git?",
+    "options": [
+      "A version control system",
+      "A programming language",
+      "A database management system",
+      "An operating system"
+    ],
+    "correctAnswer": "A version control system"
+  },
+  {
+    "no": "02",
+    "question": "What does 'git clone' do?",
+    "options": [
+      "Creates a new Git repository",
+      "Adds changes to the staging area",
+      "Downloads a copy of a repository from a remote server",
+      "Checks out a branch"
+    ],
+    "correctAnswer": "Downloads a copy of a repository from a remote server"
+  },
+  {
+    "no": "03",
+    "question": "What is a 'commit' in Git?",
+    "options": [
+      "A command to start tracking changes to a file",
+      "A snapshot of changes to the repository",
+      "A command to merge branches",
+      "A command to revert changes"
+    ],
+    "correctAnswer": "A snapshot of changes to the repository"
+  },
+  {
+    "no": "04",
+    "question": "What does 'git push' do?",
+    "options": [
+      "Uploads local repository changes to a remote repository",
+      "Downloads changes from a remote repository",
+      "Creates a new branch",
+      "Deletes a branch"
+    ],
+    "correctAnswer": "Uploads local repository changes to a remote repository"
+  },
+  {
+    "no": "05",
+    "question": "What does 'git pull' do?",
+    "options": [
+      "Downloads changes from a remote repository",
+      "Uploads local repository changes to a remote repository",
+      "Creates a new branch",
+      "Deletes a branch"
+    ],
+    "correctAnswer": "Downloads changes from a remote repository"
+  },
+  {
+    "no": "06",
+    "question": "What is a 'branch' in Git?",
+    "options": [
+      "A snapshot of changes to the repository",
+      "A copy of the entire repository",
+      "A pointer to a specific commit",
+      "A command to merge changes"
+    ],
+    "correctAnswer": "A pointer to a specific commit"
+  },
+  {
+    "no": "07",
+    "question": "What is the purpose of a 'pull request' in GitHub?",
+    "options": [
+      "To request changes to a file",
+      "To merge changes from one branch into another",
+      "To revert changes in a repository",
+      "To clone a repository"
+    ],
+    "correctAnswer": "To merge changes from one branch into another"
+  },
+  {
+    "no": "08",
+    "question": "What is a 'fork' in GitHub?",
+    "options": [
+      "A copy of a repository in your GitHub account",
+      "A branch in a repository",
+      "A command to merge branches",
+      "A snapshot of changes to the repository"
+    ],
+    "correctAnswer": "A copy of a repository in your GitHub account"
+  },
+  {
+    "no": "09",
+    "question": "What is the purpose of 'git merge'?",
+    "options": [
+      "To create a new branch",
+      "To delete a branch",
+      "To combine changes from different branches",
+      "To revert changes in a repository"
+    ],
+    "correctAnswer": "To combine changes from different branches"
+  },
+  {
+    "no": "10",
+    "question": "What is the purpose of '.gitignore' file??",
+    "options": [
+      "To list all contributors to a repository",
+      "To store credentials for accessing remote repositories",
+      "To specify files and directories that should be ignored",
+      "To revert changes in a repository"
+    ],
+    "correctAnswer": "To combine changes from different branches"
+  }
+]

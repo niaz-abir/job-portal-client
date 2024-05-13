@@ -1,0 +1,102 @@
+[
+  {
+    "no": "01",
+    "question": "What is Laravel?",
+    "options": [
+      "A PHP framework",
+      "A JavaScript library",
+      "A database management system",
+      "A web hosting service"
+    ],
+    "correctAnswer": "A PHP framework"
+  },
+  {
+    "no": "02",
+    "question": "Which command is used to create a new Laravel project?",
+    "options": ["laravel new", "create-project", "make-project", "new-laravel"],
+    "correctAnswer": "laravel new"
+  },
+  {
+    "no": "03",
+    "question": "What is the purpose of 'artisan' in Laravel?",
+    "options": [
+      "To generate code",
+      "To handle command-line tasks",
+      "To create database migrations",
+      "To manage routes"
+    ],
+    "correctAnswer": "To handle command-line tasks"
+  },
+  {
+    "no": "04",
+    "question": "What is Eloquent in Laravel?",
+    "options": [
+      "A templating engine",
+      "A database management tool",
+      "An ORM (Object-Relational Mapping) system",
+      "A testing framework"
+    ],
+    "correctAnswer": "An ORM (Object-Relational Mapping) system"
+  },
+  {
+    "no": "05",
+    "question": "What is the purpose of 'composer' in Laravel?",
+    "options": [
+      "To manage database migrations",
+      "To handle front-end dependencies",
+      "To create database tables",
+      "To generate code"
+    ],
+    "correctAnswer": "To handle front-end dependencies"
+  },
+  {
+    "no": "06",
+    "question": "What is the purpose of 'middleware' in Laravel?",
+    "options": [
+      "To define routes",
+      "To handle HTTP requests",
+      "To manage database migrations",
+      "To create authentication systems"
+    ],
+    "correctAnswer": "To handle HTTP requests"
+  },
+  {
+    "no": "07",
+    "question": "What does MVC stand for in Laravel?",
+    "options": [
+      "Model View Controller",
+      "Model View Component",
+      "Most Valuable Contributor",
+      "Model View Connect"
+    ],
+    "correctAnswer": "Model View Controller"
+  },
+  {
+    "no": "08",
+    "question": "What is the purpose of 'migration' in Laravel?",
+    "options": [
+      "To create database tables",
+      "To handle front-end dependencies",
+      "To define routes",
+      "To manage authentication"
+    ],
+    "correctAnswer": "To create database tables"
+  },
+  {
+    "no": "09",
+    "question": "What is the default database connection used in Laravel?",
+    "options": ["SQLite", "MySQL", "PostgreSQL", "MongoDB"],
+    "correctAnswer": "MySQL"
+  },
+  {
+    "no": "10",
+    "question": "What is the purpose of 'blade' in Laravel?",
+    "options": [
+      "To handle authentication",
+      "To create database migrations",
+      "To define routes",
+      "To provide a templating engine"
+    ],
+    "correctAnswer": "To provide a templating engine"
+  }
+]

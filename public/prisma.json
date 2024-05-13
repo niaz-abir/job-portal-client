@@ -1,0 +1,107 @@
+[
+  {
+    "no": "01",
+    "question": "What is Prisma?",
+    "options": [
+      "A cloud computing platform",
+      "A database management system",
+      "A frontend JavaScript framework",
+      "A design tool"
+    ],
+    "correctAnswer": "A database management system"
+  },
+  {
+    "no": "02",
+    "question": "Which programming language is primarily used with Prisma?",
+    "options": ["Java", "Python", "JavaScript/TypeScript", "Ruby"],
+    "correctAnswer": "JavaScript/TypeScript"
+  },
+  {
+    "no": "03",
+    "question": "What role does Prisma Client serve?",
+    "options": [
+      "To manage server-side logic",
+      "To interact with the database",
+      "To style user interfaces",
+      "To handle API requests"
+    ],
+    "correctAnswer": "To interact with the database"
+  },
+  {
+    "no": "04",
+    "question": "What is the purpose of Prisma Migrate?",
+    "options": [
+      "To handle HTTP requests",
+      "To manage database schema changes",
+      "To optimize frontend performance",
+      "To create user interfaces"
+    ],
+    "correctAnswer": "To manage database schema changes"
+  },
+  {
+    "no": "05",
+    "question": "Which database systems does Prisma support?",
+    "options": [
+      "MySQL and SQLite",
+      "MongoDB and Cassandra",
+      "PostgreSQL and MySQL",
+      "Redis and Elasticsearch"
+    ],
+    "correctAnswer": "PostgreSQL and MySQL"
+  },
+  {
+    "no": "06",
+    "question": "What is Prisma's schema defined in?",
+    "options": [
+      "JSON",
+      "YAML",
+      "GraphQL SDL (Schema Definition Language)",
+      "XML"
+    ],
+    "correctAnswer": "GraphQL SDL (Schema Definition Language)"
+  },
+  {
+    "no": "07",
+    "question": "What is the purpose of Prisma Client's query builder?",
+    "options": [
+      "To handle server-side caching",
+      "To generate HTML templates",
+      "To construct database queries",
+      "To manage user authentication"
+    ],
+    "correctAnswer": "To construct database queries"
+  },
+  {
+    "no": "08",
+    "question": "Which command is used to generate Prisma Client?",
+    "options": [
+      "prisma new",
+      "prisma generate",
+      "prisma create-client",
+      "prisma init"
+    ],
+    "correctAnswer": "prisma generate"
+  },
+  {
+    "no": "09",
+    "question": "What is the purpose of Prisma's 'introspection' feature?",
+    "options": [
+      "To analyze frontend code",
+      "To generate API documentation",
+      "To inspect the structure of a database",
+      "To manage server logs"
+    ],
+    "correctAnswer": "To inspect the structure of a database"
+  },
+  {
+    "no": "10",
+    "question": "What does Prisma's 'seeding' feature enable developers to do?",
+    "options": [
+      "To water their plants",
+      "To optimize database performance",
+      "To populate the database with initial data",
+      "To generate automated tests"
+    ],
+    "correctAnswer": "To populate the"
+  }
+]

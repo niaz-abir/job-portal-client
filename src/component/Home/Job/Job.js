@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import SingleJob from "../Job_Categoris/SingleJob";
+import SingleJob from "../JobCategories/SingleJob";
 import SixJob from "./SixJob";
 
 const Job = () => {

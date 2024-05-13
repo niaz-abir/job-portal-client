@@ -1,0 +1,112 @@
+[
+  {
+    "no": "01",
+    "question": "What is Tailwind CSS?",
+    "options": [
+      "A JavaScript framework",
+      "A CSS framework",
+      "A server-side language",
+      "A database management system"
+    ],
+    "correctAnswer": "A CSS framework"
+  },
+  {
+    "no": "02",
+    "question": "How does Tailwind CSS differ from traditional CSS frameworks like Bootstrap?",
+    "options": [
+      "It is written in JavaScript",
+      "It does not use pre-built components",
+      "It does not require any custom CSS",
+      "It uses utility classes to style elements"
+    ],
+    "correctAnswer": "It uses utility classes to style elements"
+  },
+  {
+    "no": "03",
+    "question": "What is the purpose of utility classes in Tailwind CSS?",
+    "options": [
+      "To define global styles",
+      "To create custom JavaScript functions",
+      "To manage database queries",
+      "To apply specific styles directly to HTML elements"
+    ],
+    "correctAnswer": "To apply specific styles directly to HTML elements"
+  },
+  {
+    "no": "04",
+    "question": "Which of the following is NOT a feature of Tailwind CSS?",
+    "options": [
+      "Responsive design utilities",
+      "Customizable color palette",
+      "Built-in JavaScript components",
+      "Flexbox and grid utilities"
+    ],
+    "correctAnswer": "Built-in JavaScript components"
+  },
+  {
+    "no": "05",
+    "question": "What is the purpose of the 'hover:' prefix in Tailwind CSS?",
+    "options": [
+      "To target elements on hover",
+      "To create animations",
+      "To define global styles",
+      "To apply styles conditionally"
+    ],
+    "correctAnswer": "To apply styles conditionally"
+  },
+  {
+    "no": "06",
+    "question": "How can you customize the default configuration of Tailwind CSS?",
+    "options": [
+      "By modifying the core source code",
+      "By editing the 'tailwind.config.js' file",
+      "By adding inline styles to HTML elements",
+      "By installing additional plugins"
+    ],
+    "correctAnswer": "By editing the 'tailwind.config.js' file"
+  },
+  {
+    "no": "07",
+    "question": "Which CSS methodology does Tailwind CSS follow?",
+    "options": [
+      "BEM (Block Element Modifier)",
+      "OOCSS (Object-Oriented CSS)",
+      "SMACSS (Scalable and Modular Architecture for CSS)",
+      "Utility-first"
+    ],
+    "correctAnswer": "Utility-first"
+  },
+  {
+    "no": "08",
+    "question": "What is the purpose of the '@apply' directive in Tailwind CSS?",
+    "options": [
+      "To import external stylesheets",
+      "To define custom utility classes",
+      "To apply existing utility classes",
+      "To create keyframe animations"
+    ],
+    "correctAnswer": "To apply existing utility classes"
+  },
+  {
+    "no": "09",
+    "question": "What is the recommended way to install Tailwind CSS in a project?",
+    "options": [
+      "By linking directly to the CDN",
+      "By using a package manager like npm or yarn",
+      "By downloading the source files from GitHub",
+      "By embedding the styles directly into HTML"
+    ],
+    "correctAnswer": "By using a package manager like npm or yarn"
+  },
+  {
+    "no": "10",
+    "question": "How does Tailwind CSS handle responsive design?",
+    "options": [
+      "By using media queries",
+      "By generating separate CSS files for each breakpoint",
+      "By dynamically adjusting styles based on screen size",
+      "By using JavaScript libraries"
+    ],
+    "correctAnswer": "By dynamically adjusting styles based on screen size"
+  }
+]
