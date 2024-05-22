@@ -9,37 +9,20 @@ const InternshipSearch = ({
   return (
     <form onSubmit={searchInterHandler} className="flex justify-center mt-4">
       <div className="flex gap-3 text-2xl">
-        <RiShoppingBag3Line className="text-accent-400 text-4xl font-bold"></RiShoppingBag3Line>
+        <RiShoppingBag3Line className="text-4xl font-bold text-accent-400"></RiShoppingBag3Line>
         <input
           type="text"
           placeholder="search Your Job"
-          className="input outline-none rounded-none w-full mr-2 max-w-xs "
+          className="w-full max-w-xs mr-2 rounded-none outline-none input "
           onChange={(e) => setSearchIntern(e.target.value)}
           value={searchIntern}
         />
       </div>
 
-      <button className="btn-all px-4 py-2 text-white font-bold ml-2 ">
+      <button className="px-4 py-2 ml-2 font-bold text-white btn-all ">
         Search
       </button>
     </form>
-
-    // <form onSubmit={searchInterHandler} className="flex justify-center mt-4">
-    //   <div className="flex  gap-3 text-2xl">
-    //     <RiShoppingBag3Line className="text-accent-400 text-4xl font-bold"></RiShoppingBag3Line>
-    //     <input
-    //       type="text"
-    //       placeholder="search Your intern"
-    //       className="input outline-none rounded-none w-full mr-2 max-w-xs "
-    //       onChange={(e) => setSearchIntern(e.target.value)}
-    //       value={searchIntern}
-    //     />
-
-    //     <button className="btn-all px-4 py-2 text-white font-bold ml-2 ">
-    //       Search
-    //     </button>
-    //   </div>
-    // </form>
   );
 };
 

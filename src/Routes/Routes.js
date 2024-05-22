@@ -37,6 +37,7 @@ import TailwindQuestion from "../pages/SkillTest/QuestionTailwind";
 import FlutterQuestion from "../pages/SkillTest/flutter";
 import FigmaQuestion from "../pages/SkillTest/figma";
 import JavascriptQuestion from "../pages/SkillTest/javascript";
+import Intern from "../pages/Intern/Intern";
 
 export const routes = createBrowserRouter([
   {
@@ -45,8 +46,7 @@ export const routes = createBrowserRouter([
     children: [
       { path: "/", element: <Home></Home> },
       { path: "/home", element: <Home></Home> },
-      // { path: "/footer", element: <Footer></Footer> },
-      // { path: "/footer", element: <Footer></Footer> },
+
       { path: "/login", element: <Login></Login> },
       { path: "/signup", element: <Signup></Signup> },
       { path: "/job", element: <Job></Job> },

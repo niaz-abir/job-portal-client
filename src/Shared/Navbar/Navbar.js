@@ -251,6 +251,14 @@ const Navbar = () => {
                   Job
                 </Link>
               </li>
+              {/* <li>
+                <Link
+                  to="/internship"
+                  class="block py-2 pl-3 pr-4  border-b   lg:hover:bg-transparent lg:border-0  lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700"
+                >
+                  Intern
+                </Link>
+              </li> */}
               <li>
                 <Link
                   to="/internship"
@@ -307,7 +315,7 @@ const Navbar = () => {
               <div class="relative inline-block text-left">
                 <div class="group">
                   <div className="w-10 rounded-full hover:bg-dark-mid hover:outline-none">
-                    <FcManager className=" text-4xl"></FcManager>
+                    <FcManager className="text-4xl "></FcManager>
                   </div>
 
                   <div class="absolute left-0 w-40 mt-1 origin-top-left  divide-y divide-gray-100 rounded-md shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition duration-300">
